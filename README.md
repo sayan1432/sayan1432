@@ -15,7 +15,7 @@
 - 🧠 I love solving real-world problems with clean design and smart logic  
 - 🌱 Currently learning **AI-powered full-stack development** and **advanced data visualization**  
 - 💬 Ask me about **Python, Streamlit, Web Development, or IPL analytics**  
-- 📫 Reach me at: **sayansil@gmail.com**  
+- 📫 Reach me at: **silsayan500@gmail.com**  
 - 🕒 Joined GitHub in **December 2024**  
 - ⚡ Fun fact: *I debug more than I sleep 😄*
 
