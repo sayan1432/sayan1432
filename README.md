@@ -30,7 +30,7 @@
 
 #### 🧩 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react" />
+  <img src="https://skillicons.dev/icons?i=django,react,Pandas,PandasAI,NumPy" />
   <br>
   <b>Streamlit • Pandas • PandasAI • NumPy • OOPs</b>
 </p>
@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/sayan-sil-0845ba378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sayansil@gmail.com">
+  <a href="mailto:silsayan500@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
   <a href="https://github.com/sayan1432">
