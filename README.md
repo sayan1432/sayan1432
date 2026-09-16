@@ -41,17 +41,6 @@
   <b>Excel • Power BI • Figma • Postman</b>
 </p>
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayan1432&show_icons=true&theme=tokyonight" alt="Sayan Sil GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan1432&theme=tokyonight" alt="Sayan Sil GitHub Streak" width="48%"/>
-</p>
-
----
-
 ### Connect With Me
 
 <p align="center">
