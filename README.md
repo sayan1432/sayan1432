@@ -1,7 +1,7 @@
 <!-- Profile README for Sayan Sil -->
 
-<h1 align="center">Hi 👋, I'm Sayan Sil</h1>
-<h3 align="center">🚀 3rd Year IT Student | Full-Stack Developer | Data Enthusiast</h3>
+<h1 align="center">Hi, I'm Sayan Sil</h1>
+<h3 align="center">4th Year IT Student | Software Developer Enthusiast| Data Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
@@ -9,33 +9,32 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 I’m a **3rd Year IT Student** passionate about **coding, data analysis, and building web apps**  
-- 🧠 I love solving real-world problems with clean design and smart logic  
-- 🌱 Currently learning **AI-powered full-stack development** and **advanced data visualization**  
-- 💬 Ask me about **Python, Streamlit, Web Development, or IPL analytics**  
-- 📫 Reach me at: **silsayan500@gmail.com**  
-- 🕒 Joined GitHub in **December 2024**  
-- ⚡ Fun fact: *I debug more than I sleep 😄*
+- I’m a **4th Year IT Student** passionate about **coding, data analysis, and building web apps**  
+- I love solving real-world problems with clean design and smart logic  
+- Currently learning **AI-powered full-stack development** and **advanced data visualization**  
+- Ask me about **Python, Streamlit, Web Development, or IPL analytics**  
+- Reach me at: **silsayan500@gmail.com**  
+- Joined GitHub in **December 2024**  
 
 ---
 
-### 🧠 Skills & Technologies
+### Skills & Technologies
 
-#### 💻 Programming Languages
+#### Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,matlab" />
 </p>
 
-#### 🧩 Frameworks & Libraries
+#### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,Pandas,PandasAI,NumPy" />
+  <img src="https://skillicons.dev/icons?i=django,react" />
   <br>
   <b>Streamlit • Pandas • PandasAI • NumPy • OOPs</b>
 </p>
 
-#### 📊 Tools & Platforms
+#### Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
   <br>
@@ -44,7 +43,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayan1432&show_icons=true&theme=tokyonight" alt="Sayan Sil GitHub stats" width="48%"/>
@@ -53,7 +52,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sayan-sil-0845ba378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -72,12 +71,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
 </p>
-
----
-
-### 🏆 Fun Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 ---
 
